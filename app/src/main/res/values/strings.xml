@@ -1,0 +1,12 @@
+
+<resources>
+<string name="app_name">COBEWeatherApp</string>
+<string name="change_city">Change location</string>
+<string name="open_weather_maps_app_id">010f97c0b974aab492dce3a5c7e1c829</string>
+<string name="not_available">Not available</string>
+<string name="place_not_found">Sorry, there has been error in connecting to weather service.</string>
+<string name="updating">Updating...</string>
+    <string name="change_location">Change location</string>
+    <string name="change">Change</string>
+
+</resources>
